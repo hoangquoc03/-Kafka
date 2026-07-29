@@ -21,5 +21,6 @@ public class Order {
     private String productName;
 
     private Integer quantity;
+    private String status;
 
 }
